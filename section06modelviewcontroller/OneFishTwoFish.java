@@ -4,7 +4,7 @@ package org.teachingkidsprogramming.section06modelviewcontroller;
 @SuppressWarnings("unused")
 public class OneFishTwoFish
 {
-  // Create a Scanner to make a string --#1
+  // Create a Scanner to make a string --#1 
   public static void main(String[] args)
   {
     makeAString();

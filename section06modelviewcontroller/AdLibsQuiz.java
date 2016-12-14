@@ -9,6 +9,7 @@ public class AdLibsQuiz extends AdLibsQuizAdapter
   public void question1(String letter1, String letter3)
   {
     //  Set current value of word1 to be letter1 + 'o' + letter3
+    word1 = letter1 + "o"
   }
   @Override
   public void question2(String letter1)
