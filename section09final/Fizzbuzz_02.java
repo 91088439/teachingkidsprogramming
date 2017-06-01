@@ -1,6 +1,6 @@
 package org.teachingkidsprogramming.section09final;
 
-public class FizzBuzz
+public class Fizzbuzz_02
 {
   public static void main(String[] args)
   {
@@ -20,7 +20,12 @@ public class FizzBuzz
       }
       else
       {
-        System.out.println(i);
+        System.out.println("*");
+        for (int j = 0; j < 10; j++)
+        {
+          
+          System.out.println(:"*");
+        }
       }
     }
   }

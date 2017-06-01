@@ -20,6 +20,9 @@ public class ConnectTheDots implements MouseRightClickListener, MouseLeftClickLi
     prepareColorPalette();
     Tortoise.getBackgroundWindow().addMouseLeftClickListener(this);
     Tortoise.getBackgroundWindow().addMouseRightClickListener(this);
+    for (int i = 0; i < array.length; i++)
+    {
+    }
   }
   @Override
   public void onLeftMouseClick(int x, int y)
